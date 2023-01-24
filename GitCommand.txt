@@ -1,0 +1,7 @@
+ls -la выводит содержимое каталога в виде таблицы со скрытыми файлами
+git init - создает репозиторий
+touch - создает файл
+git log - история
+git status - просмотр изменений
+git add fileName - добавить файл в index/stage
+git commit -m "Comment"
