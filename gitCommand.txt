@@ -11,4 +11,4 @@ git mv - переименовать или перенести файл в дру
 git rm - удаляет файл
 git restore gitCommand.txt восстанавливает файл (--staged восстанавливает из индекса)
 git branch -a
-master branch
+dev branch
