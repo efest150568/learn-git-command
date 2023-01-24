@@ -5,3 +5,5 @@ git log - история
 git status - просмотр изменений
 git add fileName - добавить файл в index/stage
 git commit -m "Comment"
+git show Hash - информация о коммите
+git diff - изменения в файле с момента последнего коммита --staget (то же самое из индекса) 
