@@ -10,3 +10,5 @@ git diff - изменения в файле с момента последнег
 git mv - переименовать или перенести файл в другой каталог
 git rm - удаляет файл
 git restore gitCommand.txt восстанавливает файл (--staged восстанавливает из индекса)
+git branch -a
+master branch
