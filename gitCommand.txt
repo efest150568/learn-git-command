@@ -12,4 +12,4 @@ git rm - удаляет файл
 git restore gitCommand.txt восстанавливает файл (--staged восстанавливает из индекса)
 git branch -a список веток
 git checkout -b dev 88eccc0692219f13775b157b5e7bd2daf01719a6 создает новую ветку на выбранном коммите
-bugfix branch
+dev branch
